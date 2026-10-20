@@ -1,0 +1,240 @@
+2026-10-19 16:17:26.080 [3]: Log started for 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-19 16:17:26.081 [3]: Log level: 4
+2026-10-19 16:17:26.081 [3]: Release: 26.1.1.3242
+2026-10-19 16:17:26.227 [3]: Execution Approval is disabled.
+2026-10-19 16:17:26.229 [3]: No service discovery configured.
+2026-10-19 16:17:26.231 [3]:  + AccessibilityTestingUI: AccessibilityTestingUI 26.1.1.3242 (3242)
+2026-10-19 16:17:26.231 [3]:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.231 [3]:  + DistributedExecutionAddIn: DistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.232 [3]:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.232 [3]:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.232 [3]:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.234 [3]:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.234 [3]:  + IntegrationManagementAddIn: IntegrationManagementAddIn 26.1.1.3242 (3242)
+    + : SAPSolutionManagerIntegration 26.1.1.3242 (3242)
+2026-10-19 16:17:26.243 [3]:  + QTestIntegrationAddIn: QTestIntegrationAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.243 [3]:  + RemoteControl: RemoteControlAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.243 [3]:  + Reporting: ReportingAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.243 [3]:  + ReportingUI: ReportingUIAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.243 [3]:  + RequirementsManagementAddIn: RequirementsManagement 26.1.1.3242 (3242)
+2026-10-19 16:17:26.244 [3]:  + RequirementsManagementUIAddIn: RequirementsManagementUI 26.1.1.3242 (3242)
+2026-10-19 16:17:26.244 [3]:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 26.1.1.3242 (3242)
+2026-10-19 16:17:26.589 [3]:  + TestCaseDesign: TestCaseDesign 26.1.1.3242 (3242)
+2026-10-19 16:17:26.652 [3]: Opened from Workspace File 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-19 16:17:26.689 [2]: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2026-10-19 16:17:32.043 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-19 16:17:32.150 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-19 16:17:32.174 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-19 16:17:32.196 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-19 16:17:32.211 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-19 16:17:32.232 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-19 16:17:32.255 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-19 16:17:32.273 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-19 16:17:32.291 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-19 16:17:32.308 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-19 16:17:32.325 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-19 16:17:32.348 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:32.366 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-19 16:17:32.381 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-19 16:17:32.400 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-19 16:17:32.416 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-19 16:17:32.432 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-19 16:17:32.446 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-19 16:17:32.464 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-19 16:17:32.490 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-19 16:17:32.515 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-19 16:17:32.537 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-19 16:17:32.555 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-19 16:17:32.587 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:32.634 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-19 16:17:32.656 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-19 16:17:32.711 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-19 16:17:32.771 [3]: OpenWorkspace took 00:00:07.3558962 to finish
+2026-10-19 16:17:32.775 [2]: Common repository is not available
+2026-10-19 16:17:33.055 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:39.819 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:17:40.804 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:41.005 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:17:41.994 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:42.177 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:17:44.825 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:47.503 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:17:49.496 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:17:49.709 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:17:52.297 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:19:50.944 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:19:51.756 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:03.794 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:20:06.103 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:06.551 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-19 16:20:06.679 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:06.698 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-19 16:20:06.710 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:06.753 [4]:  ShowStatusInfo: 'Refresh view finished'
+2026-10-19 16:20:11.700 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:13.320 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/01 GetAddress Request'
+2026-10-19 16:20:13.356 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:20:13.451 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:22.846 [4]:  ShowStatusInfo: 'Buffer Module Attribute finished'
+2026-10-19 16:20:22.862 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:20:22.962 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:24.936 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:20:25.139 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:33.407 [3]: Task 'API Add Module Attribute(s)' started on '/SOAP Scan/Modules/01 GetAddress Response'
+2026-10-19 16:20:33.407 [4]:  ShowStatusInfo: 'API Add Module Attribute(s)'
+2026-10-19 16:20:33.426 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:33.678 [4]:  ShowStatusInfo: 'Add Module Attribute(s) finished'
+2026-10-19 16:20:33.687 [3]: Task 'API Add Module Attribute(s)' finished
+2026-10-19 16:20:38.404 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:20:39.606 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:20:39.750 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:00.996 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/02 AddToCart Request'
+2026-10-19 16:21:00.996 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:21:01.016 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:01.178 [4]:  ShowStatusInfo: 'Buffer Module Attribute finished'
+2026-10-19 16:21:01.185 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:21:05.731 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/02 AddToCart Request/sku'
+2026-10-19 16:21:05.731 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:21:05.748 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:05.926 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:21:11.484 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:21:11.584 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:13.245 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:21:13.371 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:22.602 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/03 CreateOrder Request'
+2026-10-19 16:21:22.602 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:21:22.622 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:22.925 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:21:27.011 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:21:27.111 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:32.630 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/03 CreateOrder Response'
+2026-10-19 16:21:32.630 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:21:32.644 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:32.772 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:21:34.345 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:21:34.450 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:47.332 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/04 Verify order placement Request'
+2026-10-19 16:21:47.332 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:21:47.355 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:47.721 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:21:50.909 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:21:50.998 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:58.480 [3]: Task 'API Add Module Attribute(s)' started on '/SOAP Scan/Modules/04 Verify order placement Response'
+2026-10-19 16:21:58.480 [4]:  ShowStatusInfo: 'API Add Module Attribute(s)'
+2026-10-19 16:21:58.498 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:21:58.652 [4]:  ShowStatusInfo: 'Add Module Attribute(s) finished'
+2026-10-19 16:21:58.658 [3]: Task 'API Add Module Attribute(s)' finished
+2026-10-19 16:22:03.482 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:22:06.034 [3]: Task 'API Search in Payload' started on '/SOAP Scan/Modules/04 Verify order placement Response/WebServiceOrder'
+2026-10-19 16:22:06.034 [4]:  ShowStatusInfo: 'API Search in Payload'
+2026-10-19 16:22:06.224 [2]: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v25.2.Aero2, Version=25.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+2026-10-19 16:22:06.226 [2]: CommanderAssemblyResolver: Unable to resolve: DevExpress.Xpf.Themes.Office2019Colorful.v25.2.Aero2, Version=25.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+2026-10-19 16:22:06.722 [4]:  ShowStatusInfo: 'Search in Payload finished'
+2026-10-19 16:22:06.734 [3]: Task 'API Search in Payload' finished
+2026-10-19 16:22:11.031 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:22:31.489 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/04 Verify order placement Response/WebServiceOrder'
+2026-10-19 16:22:31.489 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:22:31.508 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:22:31.614 [4]:  ShowStatusInfo: 'Buffer Module Attribute finished'
+2026-10-19 16:22:31.622 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:22:36.487 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:23:04.276 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/04 Verify order placement Response/WebServiceOrder/OrderId'
+2026-10-19 16:23:04.277 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:23:04.295 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:23:04.395 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:23:36.967 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/04 Verify order placement Response/WebServiceOrder/OrderSubtotalExclTax'
+2026-10-19 16:23:36.967 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:23:36.989 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:23:37.075 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:23:43.386 [3]: Task 'API Buffer Module Attribute' started on '/SOAP Scan/Modules/04 Verify order placement Response/WebServiceOrder/OrderShippingExclTax'
+2026-10-19 16:23:43.386 [4]:  ShowStatusInfo: 'API Buffer Module Attribute'
+2026-10-19 16:23:43.395 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:23:43.495 [3]: Task 'API Buffer Module Attribute' finished
+2026-10-19 16:24:24.296 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:24:24.410 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:26.294 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:24:29.293 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:29.789 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:24:34.561 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:34.782 [4]:  ShowStatusInfo: '2 objects selected'
+2026-10-19 16:24:35.387 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:35.393 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:24:35.442 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:37.137 [4]:  ShowStatusInfo: '2 objects selected'
+2026-10-19 16:24:38.229 [4]:  ShowStatusInfo: '3 objects selected'
+2026-10-19 16:24:39.198 [4]:  ShowStatusInfo: '4 objects selected'
+2026-10-19 16:24:39.778 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:40.829 [4]:  ShowStatusInfo: '5 objects selected'
+2026-10-19 16:24:44.464 [4]:  ShowStatusInfo: '6 objects selected'
+2026-10-19 16:24:45.390 [4]:  ShowStatusInfo: '7 objects selected'
+2026-10-19 16:24:45.827 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:46.215 [4]:  ShowStatusInfo: '8 objects selected'
+2026-10-19 16:24:47.484 [3]: Task 'API Create Values from Default for XTestStep' started on
+ 1: '/SOAP Scan/TestCases/Demowebshop/01 GetAddress Request'
+ 2: '/SOAP Scan/TestCases/Demowebshop/01 GetAddress Response'
+ 3: '/SOAP Scan/TestCases/Demowebshop/02 AddToCart Request'
+ 4: '/SOAP Scan/TestCases/Demowebshop/02 AddToCart Response'
+ 5: '/SOAP Scan/TestCases/Demowebshop/03 CreateOrder Request'
+ 6: '/SOAP Scan/TestCases/Demowebshop/03 CreateOrder Response'
+ 7: '/SOAP Scan/TestCases/Demowebshop/04 Verify order placement Request'
+ 8: '/SOAP Scan/TestCases/Demowebshop/04 Verify order placement Response'
+2026-10-19 16:24:47.484 [4]:  ShowStatusInfo: 'API Create Values from Default for XTestStep'
+2026-10-19 16:24:47.521 [4]:  ShowStatusInfo: 'Create Values from Default for XTestStep finalizing ...'
+2026-10-19 16:24:47.530 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-19 16:24:47.537 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-19 16:24:47.548 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-19 16:24:47.556 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-19 16:24:47.565 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-19 16:24:47.573 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-19 16:24:47.581 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-19 16:24:47.588 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-19 16:24:47.595 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-19 16:24:47.605 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-19 16:24:47.616 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:47.628 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-19 16:24:47.640 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-19 16:24:47.646 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-19 16:24:47.651 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-19 16:24:47.657 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-19 16:24:47.662 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-19 16:24:47.669 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-19 16:24:47.676 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-19 16:24:47.682 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-19 16:24:47.689 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-19 16:24:47.694 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-19 16:24:47.704 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:24:47.725 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-19 16:24:47.735 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-19 16:24:47.742 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-19 16:24:47.749 [4]:  ShowStatusInfo: 'Create Values from Default for XTestStep finished'
+2026-10-19 16:24:47.756 [3]: Task 'API Create Values from Default for XTestStep' finished
+2026-10-19 16:24:52.732 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:11.183 [4]:  ShowStatusInfo: '8 objects selected'
+2026-10-19 16:25:14.199 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:14.427 [4]:  ShowStatusInfo: '8 objects selected'
+2026-10-19 16:25:15.776 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:15.989 [4]:  ShowStatusInfo: '8 objects selected'
+2026-10-19 16:25:18.924 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:19.147 [4]:  ShowStatusInfo: '8 objects selected'
+2026-10-19 16:25:20.981 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:23.709 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:25:23.774 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:30.661 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:25:30.717 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:32.823 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en-IN, PublicKeyToken=null
+2026-10-19 16:25:32.826 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en, PublicKeyToken=null
+2026-10-19 16:25:33.021 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:25:33.069 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:25:41.728 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-19 16:25:41.785 [4]:  ShowStatusInfo: 'Ready'
+2026-10-19 16:28:17.839 [4]:  ShowStatusInfo: 'Saving ...'
+2026-10-19 16:28:17.860 [3]:  Save started!
+2026-10-19 16:28:17.870 [3]: QTestIntegrationAddIn beginning to Export to QTest
+2026-10-19 16:28:17.872 [3]: QTestIntegrationAddIn finished exporting objects to QTest
+2026-10-19 16:28:17.872 [3]: QTestIntegrationAddIn beginning to unlink objects from QTest
+2026-10-19 16:28:17.874 [3]: LinkTcToQTestService grouping testcases by same endpoint
+2026-10-19 16:28:17.876 [3]: UnlinkTestEventService grouping TestEvents by same endpoint
+2026-10-19 16:28:17.876 [3]: QTestIntegrationAddIn finished unlinking objects from QTest
+2026-10-19 16:28:17.994 [3]:  Save finished!
+2026-10-19 16:28:17.994 [4]:  ShowStatusInfo: 'Saved successfully'
+2026-10-19 16:28:18.084 [4]:  ShowStatusInfo: 'Ready'

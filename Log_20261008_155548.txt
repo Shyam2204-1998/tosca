@@ -1,0 +1,148 @@
+2026-10-08 15:55:48.140 [3]: Log started for 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-08 15:55:48.140 [3]: Log level: 4
+2026-10-08 15:55:48.140 [3]: Release: 26.1.1.3242
+2026-10-08 15:55:48.178 [3]: Execution Approval is disabled.
+2026-10-08 15:55:48.179 [3]: No service discovery configured.
+2026-10-08 15:55:48.180 [3]:  + AccessibilityTestingUI: AccessibilityTestingUI 26.1.1.3242 (3242)
+2026-10-08 15:55:48.180 [3]:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.180 [3]:  + DistributedExecutionAddIn: DistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.181 [3]:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.181 [3]:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.181 [3]:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.182 [3]:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.182 [3]:  + IntegrationManagementAddIn: IntegrationManagementAddIn 26.1.1.3242 (3242)
+    + : SAPSolutionManagerIntegration 26.1.1.3242 (3242)
+2026-10-08 15:55:48.186 [3]:  + QTestIntegrationAddIn: QTestIntegrationAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.186 [3]:  + RemoteControl: RemoteControlAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.187 [3]:  + Reporting: ReportingAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.187 [3]:  + ReportingUI: ReportingUIAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.187 [3]:  + RequirementsManagementAddIn: RequirementsManagement 26.1.1.3242 (3242)
+2026-10-08 15:55:48.187 [3]:  + RequirementsManagementUIAddIn: RequirementsManagementUI 26.1.1.3242 (3242)
+2026-10-08 15:55:48.187 [3]:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 26.1.1.3242 (3242)
+2026-10-08 15:55:48.224 [3]:  + TestCaseDesign: TestCaseDesign 26.1.1.3242 (3242)
+2026-10-08 15:55:48.239 [3]: Opened from Workspace File 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-08 15:55:52.309 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-08 15:55:52.452 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-08 15:55:52.470 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:55:52.484 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-08 15:55:52.497 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-08 15:55:52.514 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-08 15:55:52.533 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-08 15:55:52.548 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-08 15:55:52.559 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-08 15:55:52.570 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-08 15:55:52.584 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-08 15:55:52.601 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-08 15:55:52.618 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:55:52.641 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-08 15:55:52.655 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-08 15:55:52.670 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-08 15:55:52.682 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-08 15:55:52.692 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-08 15:55:52.700 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-08 15:55:52.714 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-08 15:55:52.725 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-08 15:55:52.739 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-08 15:55:52.774 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-08 15:55:52.838 [3]: OpenWorkspace took 00:00:04.7892970 to finish
+2026-10-08 15:55:52.842 [2]: Common repository is not available
+2026-10-08 15:55:57.729 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:56:39.892 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-08 15:56:39.912 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:56:41.769 [3]: Task 'Create Component Folder' started on ''
+2026-10-08 15:56:41.769 [4]:  ShowStatusInfo: 'Create Component Folder'
+2026-10-08 15:56:41.778 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:56:41.910 [4]:  ShowStatusInfo: 'Component Folder finalizing ...'
+2026-10-08 15:56:41.917 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-08 15:56:41.925 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-08 15:56:41.931 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-08 15:56:41.936 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-08 15:56:41.943 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-08 15:56:41.950 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-08 15:56:41.956 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-08 15:56:41.962 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-08 15:56:41.967 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-08 15:56:41.973 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-08 15:56:41.988 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:56:41.996 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-08 15:56:42.003 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-08 15:56:42.011 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-08 15:56:42.016 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-08 15:56:42.022 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-08 15:56:42.028 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-08 15:56:42.034 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-08 15:56:42.039 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-08 15:56:42.045 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-08 15:56:42.052 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-08 15:56:42.067 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:56:42.082 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-08 15:56:42.096 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-08 15:56:42.102 [4]:  ShowStatusInfo: 'Component Folder finished'
+2026-10-08 15:56:42.107 [3]: Task 'Create Component Folder' finished
+2026-10-08 15:56:42.112 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:57:28.341 [3]: Task 'API Start API Scan' started on '/APIScan'
+2026-10-08 15:57:28.341 [4]:  ShowStatusInfo: 'API Start API Scan'
+2026-10-08 15:57:30.486 [4]:  ShowStatusInfo: 'Start API Scan'
+2026-10-08 15:57:36.873 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:57:37.183 [4]:  ShowStatusInfo: 'Start API Scan finalizing ...'
+2026-10-08 15:57:37.195 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-08 15:57:37.204 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-08 15:57:37.211 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-08 15:57:37.221 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-08 15:57:37.230 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-08 15:57:37.239 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-08 15:57:37.248 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-08 15:57:37.254 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-08 15:57:37.263 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-08 15:57:37.275 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-08 15:57:37.294 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:57:37.303 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-08 15:57:37.318 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-08 15:57:37.328 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-08 15:57:37.335 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-08 15:57:37.342 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-08 15:57:37.348 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-08 15:57:37.355 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-08 15:57:37.363 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-08 15:57:37.368 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-08 15:57:37.378 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-08 15:57:37.400 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:57:37.420 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-08 15:57:37.441 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-08 15:57:37.483 [4]:  ShowStatusInfo: 'Start API Scan finished'
+2026-10-08 15:57:37.489 [3]: Task 'API Start API Scan' finished
+2026-10-08 15:57:42.411 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 16:00:53.724 [3]: Task 'API Start API Scan' started on '/APIScan'
+2026-10-08 16:00:53.724 [4]:  ShowStatusInfo: 'API Start API Scan'
+2026-10-08 16:00:55.814 [4]:  ShowStatusInfo: 'Start API Scan'
+2026-10-08 16:00:58.681 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 16:00:59.065 [4]:  ShowStatusInfo: 'Start API Scan finalizing ...'
+2026-10-08 16:00:59.079 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-08 16:00:59.089 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-08 16:00:59.098 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-08 16:00:59.104 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-08 16:00:59.110 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-08 16:00:59.119 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-08 16:00:59.127 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-08 16:00:59.134 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-08 16:00:59.140 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-08 16:00:59.147 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-08 16:00:59.166 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 16:00:59.172 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-08 16:00:59.178 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-08 16:00:59.187 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-08 16:00:59.194 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-08 16:00:59.203 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-08 16:00:59.211 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-08 16:00:59.220 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-08 16:00:59.230 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-08 16:00:59.236 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-08 16:00:59.242 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-08 16:00:59.256 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 16:00:59.273 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-08 16:00:59.281 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-08 16:00:59.316 [4]:  ShowStatusInfo: 'Start API Scan finished'
+2026-10-08 16:00:59.322 [3]: Task 'API Start API Scan' finished
+2026-10-08 16:01:04.257 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 16:25:02.607 [3]: Closing Workspace!
+2026-10-08 16:25:02.607 [3]: Log closed!

@@ -1,0 +1,43 @@
+2026-10-08 15:55:41.481 [3]: Log started for 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-08 15:55:41.482 [3]: Log level: 4
+2026-10-08 15:55:41.482 [3]: Release: 26.1.1.3242
+2026-10-08 15:55:41.505 [3]: Execution Approval is disabled.
+2026-10-08 15:55:41.506 [3]: No service discovery configured.
+2026-10-08 15:55:41.547 [3]:  Save started!
+2026-10-08 15:55:41.553 [3]: QTestIntegrationAddIn beginning to Export to QTest
+2026-10-08 15:55:41.554 [3]: QTestIntegrationAddIn finished exporting objects to QTest
+2026-10-08 15:55:41.554 [3]: QTestIntegrationAddIn beginning to unlink objects from QTest
+2026-10-08 15:55:41.555 [3]: LinkTcToQTestService grouping testcases by same endpoint
+2026-10-08 15:55:41.556 [3]: UnlinkTestEventService grouping TestEvents by same endpoint
+2026-10-08 15:55:41.557 [3]: QTestIntegrationAddIn finished unlinking objects from QTest
+2026-10-08 15:55:41.638 [3]:  Save finished!
+2026-10-08 15:55:43.038 [2]: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2026-10-08 15:55:43.065 [4]:  ShowStatusInfo: 'New Project with Default-Folders created!'
+2026-10-08 15:55:43.080 [3]:  Save started!
+2026-10-08 15:55:43.082 [3]: QTestIntegrationAddIn beginning to Export to QTest
+2026-10-08 15:55:43.082 [3]: QTestIntegrationAddIn finished exporting objects to QTest
+2026-10-08 15:55:43.082 [3]: QTestIntegrationAddIn beginning to unlink objects from QTest
+2026-10-08 15:55:43.082 [3]: LinkTcToQTestService grouping testcases by same endpoint
+2026-10-08 15:55:43.082 [3]: UnlinkTestEventService grouping TestEvents by same endpoint
+2026-10-08 15:55:43.082 [3]: QTestIntegrationAddIn finished unlinking objects from QTest
+2026-10-08 15:55:43.098 [3]:  Save finished!
+2026-10-08 15:55:43.103 [4]:  ShowStatusInfo: 'Workspace 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws' created successfully!'
+2026-10-08 15:55:43.119 [4]:  ShowStatusInfo: 'Importing workspace template, please wait...'
+2026-10-08 15:55:43.144 [3]: Importing from the following subsets: C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Standard.tsu
+2026-10-08 15:55:43.613 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en-IN, PublicKeyToken=null
+2026-10-08 15:55:43.614 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en, PublicKeyToken=null
+2026-10-08 15:55:43.888 [4]:  ShowStatusInfo: 'Import Subset finalizing ...'
+2026-10-08 15:55:43.905 [4]:  ShowStatusInfo: 'Import Subset finished'
+2026-10-08 15:55:43.918 [3]: Task 'Import Subset' finished
+2026-10-08 15:55:43.925 [4]:  ShowStatusInfo: 'Workspace template successfully imported!'
+2026-10-08 15:55:43.940 [3]:  Save started!
+2026-10-08 15:55:43.944 [3]: QTestIntegrationAddIn beginning to Export to QTest
+2026-10-08 15:55:43.946 [3]: QTestIntegrationAddIn finished exporting objects to QTest
+2026-10-08 15:55:43.946 [3]: QTestIntegrationAddIn beginning to unlink objects from QTest
+2026-10-08 15:55:43.946 [3]: LinkTcToQTestService grouping testcases by same endpoint
+2026-10-08 15:55:43.948 [3]: UnlinkTestEventService grouping TestEvents by same endpoint
+2026-10-08 15:55:43.949 [3]: QTestIntegrationAddIn finished unlinking objects from QTest
+2026-10-08 15:55:44.238 [3]:  Save finished!
+2026-10-08 15:55:46.121 [4]:  ShowStatusInfo: 'Ready'
+2026-10-08 15:55:47.541 [3]: Closing Workspace!
+2026-10-08 15:55:47.542 [3]: Log closed!

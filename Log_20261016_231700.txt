@@ -1,0 +1,168 @@
+2026-10-16 23:17:00.262 [3]: Log started for 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-16 23:17:00.262 [3]: Log level: 4
+2026-10-16 23:17:00.262 [3]: Release: 26.1.1.3242
+2026-10-16 23:17:00.360 [3]: Execution Approval is disabled.
+2026-10-16 23:17:00.361 [3]: No service discovery configured.
+2026-10-16 23:17:00.362 [3]:  + AccessibilityTestingUI: AccessibilityTestingUI 26.1.1.3242 (3242)
+2026-10-16 23:17:00.362 [3]:  + CloudDistributedExecutionAddIn: CloudDistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.363 [3]:  + DistributedExecutionAddIn: DistributedExecutionAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.364 [3]:  + ElasticExecutionGridAddIn: ElasticExecutionGridAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.364 [3]:  - ExecutionApprovalAddIn: ExecutionApprovalAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.364 [3]:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.365 [3]:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.365 [3]:  + IntegrationManagementAddIn: IntegrationManagementAddIn 26.1.1.3242 (3242)
+    + : SAPSolutionManagerIntegration 26.1.1.3242 (3242)
+2026-10-16 23:17:00.368 [3]:  + QTestIntegrationAddIn: QTestIntegrationAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.368 [3]:  + RemoteControl: RemoteControlAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.368 [3]:  + Reporting: ReportingAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.369 [3]:  + ReportingUI: ReportingUIAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.369 [3]:  + RequirementsManagementAddIn: RequirementsManagement 26.1.1.3242 (3242)
+2026-10-16 23:17:00.369 [3]:  + RequirementsManagementUIAddIn: RequirementsManagementUI 26.1.1.3242 (3242)
+2026-10-16 23:17:00.369 [3]:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 26.1.1.3242 (3242)
+2026-10-16 23:17:00.416 [3]:  + TestCaseDesign: TestCaseDesign 26.1.1.3242 (3242)
+2026-10-16 23:17:00.472 [3]: Opened from Workspace File 'C:\Users\shyam\Downloads\Learning\Tosca\Learnings\Tosca_learnings\Tosca_learnings.tws'
+2026-10-16 23:17:00.546 [2]: CommanderAssemblyResolver: Unable to resolve: System.Collections.Specialized.XmlSerializers, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2026-10-16 23:17:06.650 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-16 23:17:06.759 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-16 23:17:06.780 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-16 23:17:06.804 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-16 23:17:06.830 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-16 23:17:06.849 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-16 23:17:06.877 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-16 23:17:06.901 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-16 23:17:06.926 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-16 23:17:06.949 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-16 23:17:06.972 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:07.004 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:07.029 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:07.051 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-16 23:17:07.076 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-16 23:17:07.094 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-16 23:17:07.113 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-16 23:17:07.132 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-16 23:17:07.152 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-16 23:17:07.176 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-16 23:17:07.197 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-16 23:17:07.223 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-16 23:17:07.244 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:07.285 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:07.332 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:07.352 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-16 23:17:07.408 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-16 23:17:07.470 [3]: OpenWorkspace took 00:00:10.0874953 to finish
+2026-10-16 23:17:07.473 [2]: Common repository is not available
+2026-10-16 23:17:07.816 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:13.409 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:14.803 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:14.995 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:17.173 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:21.724 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:23.131 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:23.345 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:24.847 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:29.032 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:29.175 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:32.931 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:32.991 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:33.574 [4]:  ShowStatusInfo: '1 object selected'
+2026-10-16 23:17:33.602 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:36.108 [3]: Task 'Run in ScratchBook' started on '/REST Scan/TestCases/Coffeeshop'
+2026-10-16 23:17:36.112 [4]:  ShowStatusInfo: 'Run in ScratchBook'
+2026-10-16 23:17:36.333 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-16 23:17:36.354 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-16 23:17:36.360 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-16 23:17:36.364 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-16 23:17:36.370 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-16 23:17:36.375 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-16 23:17:36.380 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-16 23:17:36.388 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-16 23:17:36.395 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-16 23:17:36.402 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:36.409 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:36.416 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:36.429 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-16 23:17:36.434 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-16 23:17:36.439 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-16 23:17:36.445 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-16 23:17:36.450 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-16 23:17:36.456 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-16 23:17:36.461 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-16 23:17:36.465 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-16 23:17:36.471 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-16 23:17:36.477 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:36.486 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:36.499 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:36.507 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-16 23:17:36.513 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-16 23:17:36.696 [2]: CommanderAssemblyResolver: Unable to resolve: SAPSolutionManagerAddIn.XmlSerializers, Version=26.1.1.3242, Culture=neutral, PublicKeyToken=null
+2026-10-16 23:17:36.700 [2]: CommanderAssemblyResolver: Unable to resolve: SAPSolutionManagerAddIn.XmlSerializers, Version=26.1.1.3242, Culture=neutral, PublicKeyToken=null
+2026-10-16 23:17:37.007 [4]:  ShowStatusInfo: 'Run started with TBoxRunTaskExecutor'
+2026-10-16 23:17:37.149 [4]:  ShowStatusInfo: 'Verifying required licenses ...'
+2026-10-16 23:17:37.218 [4]:  ShowStatusInfo: 'Execution Running ...'
+2026-10-16 23:17:44.631 [3]: AgentResults count: 1
+2026-10-16 23:17:47.677 [4]:  ShowStatusInfo: 'Processing execution results ...'
+2026-10-16 23:17:47.691 [3]: executionResponses count: 1
+2026-10-16 23:17:47.872 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en-IN, PublicKeyToken=null
+2026-10-16 23:17:47.873 [2]: CommanderAssemblyResolver: Unable to resolve: Persistency.resources, Version=26.1.1.3242, Culture=en, PublicKeyToken=null
+2026-10-16 23:17:47.924 [4]:  ShowStatusInfo: 'Run finalizing ...'
+2026-10-16 23:17:47.936 [4]:  ShowStatusInfo: 'Run finished'
+2026-10-16 23:17:47.943 [3]: Task 'Run' finished
+2026-10-16 23:17:47.946 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:48.065 [4]:  ShowStatusInfo: 'Run in ScratchBook finalizing ...'
+2026-10-16 23:17:48.074 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-16 23:17:48.080 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-16 23:17:48.087 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-16 23:17:48.092 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-16 23:17:48.099 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-16 23:17:48.109 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-16 23:17:48.118 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-16 23:17:48.122 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-16 23:17:48.127 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-16 23:17:48.134 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:48.150 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:48.156 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:48.161 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-16 23:17:48.168 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-16 23:17:48.176 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-16 23:17:48.183 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-16 23:17:48.188 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-16 23:17:48.193 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-16 23:17:48.200 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-16 23:17:48.206 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-16 23:17:48.211 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-16 23:17:48.221 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:48.234 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:48.245 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:48.252 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-16 23:17:48.283 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-16 23:17:48.298 [4]:  ShowStatusInfo: 'Run in ScratchBook finished'
+2026-10-16 23:17:48.304 [3]: Task 'Run in ScratchBook' finished
+2026-10-16 23:17:48.307 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+2026-10-16 23:17:48.314 [4]:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+2026-10-16 23:17:48.320 [4]:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+2026-10-16 23:17:48.324 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestCaseDesign''
+2026-10-16 23:17:48.330 [4]:  ShowStatusInfo: 'Refresh navigation view 'Execution''
+2026-10-16 23:17:48.337 [4]:  ShowStatusInfo: 'Refresh navigation view 'Issues''
+2026-10-16 23:17:48.342 [4]:  ShowStatusInfo: 'Refresh navigation view 'Configurations''
+2026-10-16 23:17:48.348 [4]:  ShowStatusInfo: 'Refresh navigation view 'TestPlanning''
+2026-10-16 23:17:48.353 [4]:  ShowStatusInfo: 'Refresh navigation view 'Data Integrity Testing''
+2026-10-16 23:17:48.360 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:48.367 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:48.375 [4]:  ShowStatusInfo: 'Refresh navigation view 'Tosca_learnings''
+2026-10-16 23:17:48.382 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+2026-10-16 23:17:48.389 [4]:  ShowStatusInfo: 'Refresh detail view 'Modules''
+2026-10-16 23:17:48.394 [4]:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+2026-10-16 23:17:48.399 [4]:  ShowStatusInfo: 'Refresh detail view 'TestCaseDesign''
+2026-10-16 23:17:48.404 [4]:  ShowStatusInfo: 'Refresh detail view 'Execution''
+2026-10-16 23:17:48.409 [4]:  ShowStatusInfo: 'Refresh detail view 'Issues''
+2026-10-16 23:17:48.414 [4]:  ShowStatusInfo: 'Refresh detail view 'Configurations''
+2026-10-16 23:17:48.421 [4]:  ShowStatusInfo: 'Refresh detail view 'TestPlanning''
+2026-10-16 23:17:48.427 [4]:  ShowStatusInfo: 'Refresh detail view 'Data Integrity Testing''
+2026-10-16 23:17:48.432 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:48.441 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:48.456 [4]:  ShowStatusInfo: 'Refresh detail view 'Tosca_learnings''
+2026-10-16 23:17:48.463 [4]:  ShowStatusInfo: 'Refresh  'WindowLabels''
+2026-10-16 23:17:48.492 [4]:  ShowStatusInfo: 'Refresh all finished'
+2026-10-16 23:17:48.535 [4]:  ShowStatusInfo: 'Ready'
+2026-10-16 23:17:59.734 [3]: Closing Workspace!
+2026-10-16 23:17:59.734 [3]: Log closed!
